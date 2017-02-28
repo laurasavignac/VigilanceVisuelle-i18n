@@ -1,0 +1,38 @@
+/* eslint-disable no-trailing-spaces, quotes */
+
+export default {
+  fr: {
+    hello: 'Bonjour',
+    title: 'Vigilance visuelle',
+    home: 'Accueil',
+    portal: 'Portail thématique',
+    random: 'Fiche au hasard',
+    me: 'Mon compte',
+    about: 'À propos',
+    contact: 'Contact',
+    create: 'Ajouter une fiche',
+    logout: 'Me déconnecter',
+    login: 'Me connecter',
+    chantier: 'Laboratoire en chantier!',
+    moreinfo: `plus d'infos`,
+    security: 'mentions légales',
+    greet: 'salut',
+  },
+  en: {
+    hello: 'Hello',
+    title: 'Visual vigilance',
+    home: 'Home',
+    portal: 'Theme portal',
+    random: 'Random file',
+    me: 'My account',
+    about: 'About',
+    contact: 'Contact',
+    create: 'Create a file',
+    logout: 'Logout',
+    login: 'Login',
+    chantier: 'Lab underway!',
+    moreinfo: 'more infos',
+    security: 'legal stuff',
+    greet: 'hello',
+  },
+};
