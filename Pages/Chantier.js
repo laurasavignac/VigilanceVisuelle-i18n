@@ -11,7 +11,7 @@ export default {
     title: `Laboratory`,
     card: `Laboratory underway !`,
     intro: `The Laboratory, second part of the website, will make it possible to manipulate material previously gathered to question the issues raised by it, to study it more thoroughly and to open new perspectives. In the long term, this part could lead to digital and print publications.
-    <br>This part will be active when there will be enough content on the website.
-    <br>See you soon!`,
+<br>This part will be active when there will be enough content on the website.
+<br>See you soon!`,
   },
 };
