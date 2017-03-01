@@ -18,6 +18,9 @@ export default {
     accountDeleted: `Votre compte a bien été supprimé.`,
     createdFile: `Vous avez créé une fiche! Merci!`,
     ownershipOk: `Votre fiche a bien été associée à votre compte`,
+    generalError: `Une erreur s'est produite.`,
+    successfulEdit: `Fiche bien éditée :)`,
+    successfulReport: `Fiche bien signalée, merci.`,
   },
   en: {
     loginFirst: `You're now logged in, please activate your account`,
@@ -34,5 +37,8 @@ export default {
     accountDeleted: `Your account has been deleted`,
     createdFile: `Yay, you created a file !`,
     ownershipOk: `Your file has been associated to your account !`,
+    generalError: `An error occured.`,
+    successfulEdit: `File edited :)`,
+    successfulReport: `Your report was sent. Thanks.`,
   },
 };
